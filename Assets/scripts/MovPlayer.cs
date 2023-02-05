@@ -9,6 +9,7 @@ public class MovPlayer : MonoBehaviour
     // public float velRot = 200.0f;
     public Rigidbody2D rb;
 
+    public float velRot = 200.0f;
 
     // Start is called before the first frame update
     void Start()
