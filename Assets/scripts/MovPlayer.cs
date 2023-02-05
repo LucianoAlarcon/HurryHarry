@@ -6,7 +6,7 @@ public class MovPlayer : MonoBehaviour
 {
     public float y, x;
     public float velMov = 5.0f;
-    public float velRot = 200.0f;
+    // public float velRot = 200.0f;
     public Rigidbody2D rb;
 
 
@@ -17,8 +17,7 @@ public class MovPlayer : MonoBehaviour
     }
 
     private void FixedUpdate()
-    {
-        transform.Rotate(0 , 0, x * Time.deltaTime * velRot);
+    {   
         transform.Translate(0, y * Time.deltaTime * velMov, 0);
         // transform.Translate(0, Time.deltaTime * 1, 0);
 
@@ -27,6 +26,15 @@ public class MovPlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(Input.GetKeyDown(KeyCode.D))
+        {
+            transform.Rotate(0,0, -90);
+        }
+
+          if(Input.GetKeyDown(KeyCode.A))
+        {
+            transform.Rotate(0,0, 90);
+        }
         x = Input.GetAxis("Horizontal");
         y = Input.GetAxis("Vertical");
     }

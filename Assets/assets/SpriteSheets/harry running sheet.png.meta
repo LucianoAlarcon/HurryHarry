@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: f72c4e78a775b22428700c89d9a0a932
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: harry running sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7684446, y: 0.23243523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e635123cf5b415f4d9afa3a28d673ac0
+      internalID: 1348694992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.79044825, y: 0.2567593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7fc9bf097a86e449d0509522fea9de
+      internalID: 1866149281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 196
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.70182645, y: 0.28551218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a50dabc28158b48b206f270ca22813
+      internalID: 69907083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 200
+        width: 27
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7105826, y: 0.2282547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13127121b327ad47b5ff44bca48af15
+      internalID: 547817151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 141
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.63935643, y: 0.17061175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf526a0b39b64543838039afda8af80
+      internalID: 244038331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 138
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6098925, y: 0.23348045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76ccfb0f2ae3d64fafec25ef884e9a1
+      internalID: -1865740804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 132
+        width: 51
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5360688, y: 0.34531403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d53b128ef646249837ec5330e51a69
+      internalID: -1212355844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 134
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6621598, y: 0.28382725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf83e4ff950c1145a8e403867ab1217
+      internalID: -1341080794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.62393206, y: 0.19430092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1dfca7471dc3143bf659320056a171
+      internalID: -2038466436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6060904, y: 0.24292082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb624400bbc1a4889fe7a0c8517a3c
+      internalID: -91191387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 74
+        width: 21
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3885142, y: 0.22593223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a858fe8e06545f74080132e8fd9b5acb
+      internalID: -959683603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 73
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3188362, y: 0.34471703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a15ccd49861d174fb90265e8dfe473a
+      internalID: 1238136784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry running sheet_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5917098, y: 0.28518435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808ba0d8437693d49a08f72636aedd70
+      internalID: -378973534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      harry running sheet_4: 244038331
+      harry running sheet_6: -1212355844
+      harry running sheet_7: -1341080794
+      harry running sheet_1: 1866149281
+      harry running sheet_2: 69907083
+      harry running sheet_10: 384736138
+      harry running sheet_8: -2038466436
+      harry running sheet_12: 1238136784
+      harry running sheet_0: 1348694992
+      harry running sheet_11: -959683603
+      harry running sheet_9: -91191387
+      harry running sheet_14: -378973534
+      harry running sheet_13: -866094749
+      harry running sheet_5: -1865740804
+      harry running sheet_3: 547817151
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
