@@ -15,15 +15,15 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
-    y: 42.666668
-    width: 1280
-    height: 629.3334
+    y: 64
+    width: 1366
+    height: 625
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 1
+  m_Maximized: 0
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -44,8 +44,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1280
-    height: 629.3333
+    width: 1366
+    height: 625
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -69,7 +69,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1280
+    width: 1366
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -90,8 +90,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 609.3333
-    width: 1280
+    y: 605
+    width: 1366
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -113,21 +113,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-<<<<<<< HEAD
-    width: 1280
-    height: 579.3333
-  m_MinSize: {x: 300, y: 200}
-  m_MaxSize: {x: 24288, y: 16192}
-  vertical: 0
-  controlID: 46
-=======
     width: 1366
     height: 575
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 72
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+  controlID: 24
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,21 +138,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-    width: 1280
-    height: 579.3333
-  m_MinSize: {x: 300, y: 200}
-  m_MaxSize: {x: 24288, y: 16192}
-  vertical: 1
-  controlID: 47
-=======
     width: 1366
     height: 575
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 73
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+  controlID: 25
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -181,21 +163,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-    width: 1280
-    height: 431.33334
-  m_MinSize: {x: 300, y: 100}
-  m_MaxSize: {x: 24288, y: 8096}
-  vertical: 0
-  controlID: 48
-=======
     width: 1366
     height: 365
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 74
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+  controlID: 26
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,13 +186,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-    width: 315.33334
-    height: 431.33334
-=======
     width: 337
     height: 365
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -244,16 +212,6 @@ MonoBehaviour:
   - {fileID: 11}
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 315.33334
-    y: 0
-    width: 964.6666
-    height: 431.33334
-  m_MinSize: {x: 200, y: 100}
-  m_MaxSize: {x: 16192, y: 8096}
-  vertical: 0
-  controlID: 49
-=======
     x: 337
     y: 0
     width: 1029
@@ -261,8 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 98
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+  controlID: 27
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -273,20 +230,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< HEAD
   m_Name: SceneView
-=======
-  m_Name: GameView
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-    width: 643.3333
-    height: 431.33334
+    width: 686
+    height: 365
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -295,18 +247,6 @@ MonoBehaviour:
   - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 1
-=======
-    width: 686
-    height: 365
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
-  m_Panes:
-  - {fileID: 15}
-  - {fileID: 16}
-  m_Selected: 1
-  m_LastSelected: 0
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -322,17 +262,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 643.3333
-    y: 0
-    width: 321.3333
-    height: 431.33334
-=======
     x: 686
     y: 0
     width: 343
     height: 365
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
@@ -357,15 +290,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
-    y: 431.33334
-    width: 1280
-    height: 147.99997
-=======
     y: 365
     width: 1366
     height: 210
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_MinSize: {x: 230, y: 271}
   m_MaxSize: {x: 10000, y: 10021}
   m_ActualView: {fileID: 18}
@@ -390,21 +317,14 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
-    m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 958.6667
-    y: 72.66667
-    width: 320.3333
-    height: 410.33334
-=======
     x: 1023
     y: 119
     width: 342
     height: 344
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -438,24 +358,14 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Hierarchy
-<<<<<<< HEAD
-    m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
-=======
     m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
-    y: 72.66667
-    width: 314.33334
-    height: 410.33334
-=======
     y: 119
     width: 336
     height: 344
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -465,11 +375,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-<<<<<<< HEAD
-      m_ExpandedIDs: 2cfbffff
-=======
-      m_ExpandedIDs: 04ccffff14d2ffffbef6ffff2cfbffffec5f0000
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+      m_ExpandedIDs: 22f7ffff62f7ffffa2f7ffffe2f7ffff22f8ffff62f8ffffa2f8ffffe2f8ffff22f9ffff64f9ffffb4f9fffff4f9ffff34faffff2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -509,16 +415,6 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-<<<<<<< HEAD
-    m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 315.33334
-    y: 72.66667
-    width: 641.3333
-    height: 410.33334
-=======
     m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
@@ -527,7 +423,6 @@ MonoBehaviour:
     y: 119
     width: 684
     height: 344
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -538,11 +433,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 1
       snapOffset: {x: 0, y: 0}
-<<<<<<< HEAD
-      snapOffsetDelta: {x: -98.66669, y: -26}
-=======
       snapOffsetDelta: {x: -101, y: -26}
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -595,11 +486,7 @@ MonoBehaviour:
       containerId: overlay-toolbar__top
       floating: 0
       collapsed: 0
-<<<<<<< HEAD
       displayed: 0
-=======
-      displayed: 1
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -759,15 +646,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
-    m_Target: {x: 10.821117, y: 25.790497, z: -6.9726734}
+    m_Target: {x: -14.660214, y: 12.053922, z: 0.18855433}
     speed: 2
-    m_Value: {x: 10.821117, y: 25.790497, z: -6.9726734}
-=======
-    m_Target: {x: 1.4076756, y: 6.5150576, z: 0.05179596}
-    speed: 2
-    m_Value: {x: 1.4076756, y: 6.5150576, z: 0.05179596}
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+    m_Value: {x: -14.735963, y: 12.064157, z: 0.18916045}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -818,15 +699,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-<<<<<<< HEAD
-    m_Target: 87.535614
+    m_Target: 3.8483796
     speed: 2
-    m_Value: 87.535614
-=======
-    m_Target: 17.870258
-    speed: 2
-    m_Value: 17.870258
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+    m_Value: 3.7877672
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -867,16 +742,6 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Game
-<<<<<<< HEAD
-    m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 315.33334
-    y: 72.66667
-    width: 641.3333
-    height: 410.33334
-=======
     m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
@@ -885,7 +750,6 @@ MonoBehaviour:
     y: 119
     width: 684
     height: 344
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -896,11 +760,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-<<<<<<< HEAD
-  m_TargetSize: {x: 641.3333, y: 389.33334}
-=======
   m_TargetSize: {x: 684, y: 323}
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -915,17 +775,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-<<<<<<< HEAD
-    m_HBaseRangeMin: -213.77777
-    m_HBaseRangeMax: 213.77777
-    m_VBaseRangeMin: -129.77779
-    m_VBaseRangeMax: 129.77779
-=======
     m_HBaseRangeMin: -342
     m_HBaseRangeMax: 342
     m_VBaseRangeMin: -161.5
     m_VBaseRangeMax: 161.5
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -934,7 +787,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -943,32 +796,16 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-<<<<<<< HEAD
-      width: 641.3333
-      height: 389.33334
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 320.66666, y: 194.66667}
-=======
       width: 684
       height: 323
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 342, y: 161.5}
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-<<<<<<< HEAD
-      x: -320.66666
-      y: -194.66667
-      width: 641.3333
-      height: 389.33334
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 962, y: 615.5}
-=======
       x: -342
       y: -161.5
       width: 684
@@ -976,7 +813,6 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 684, y: 344}
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1002,17 +838,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 958.6667
-    y: 72.66667
-    width: 320.3333
-    height: 410.33334
-=======
     x: 1023
     y: 119
     width: 342
     height: 344
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -1040,24 +869,14 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-<<<<<<< HEAD
-    m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
-=======
     m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
-    y: 504
-    width: 1280
-    height: 126.99997
-=======
     y: 484
     width: 1366
     height: 189
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -1075,38 +894,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-<<<<<<< HEAD
-    - Packages
-=======
-    - Assets
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-<<<<<<< HEAD
-  - Packages
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Radium Rocket\Desktop\HurryHarry
-=======
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /home/oem/Harry Root/HurryHarry
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-    m_SelectedIDs: ffffff7f
-    m_LastClickedID: 2147483647
-    m_ExpandedIDs: 00000000
-=======
-    m_SelectedIDs: fc600000
-    m_LastClickedID: 24828
-    m_ExpandedIDs: 00000000fc60000000ca9a3b
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+    m_SelectedIDs: fa5f0000
+    m_LastClickedID: 24570
+    m_ExpandedIDs: 00000000ce5f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1134,11 +937,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
-    m_ExpandedIDs: 00000000
-=======
-    m_ExpandedIDs: 00000000fc600000
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
+    m_ExpandedIDs: 00000000ce5f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1165,13 +964,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-<<<<<<< HEAD
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c62300004476000046750000
-=======
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000044760000a2780000
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1195,11 +989,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-<<<<<<< HEAD
-    m_ScrollPosition: {x: 0, y: 127.00003}
-=======
     m_ScrollPosition: {x: 0, y: 0}
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -1219,24 +1009,14 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Console
-<<<<<<< HEAD
-    m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
-=======
     m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
-    y: 504
-    width: 1280
-    height: 126.99997
-=======
     y: 484
     width: 1366
     height: 189
->>>>>>> c174b95 (Added gameManager. Insert tileMap)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
