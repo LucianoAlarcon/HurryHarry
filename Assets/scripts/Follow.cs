@@ -25,7 +25,7 @@ public class Follow : MonoBehaviour
     {
         posX = target_posX + rightMax;
         posY = target_posY + topMax;
-        transform.position = Vector3.Lerp(transform.position, new Vector3(posX, posY, -1), -1);
+        transform.position = Vector3.Lerp(transform.position, new Vector3(posX, posY, -10), -1);
     }
 
     // Start is called before the first frame update
@@ -56,7 +56,7 @@ public class Follow : MonoBehaviour
                     posY = target_posY;
                 }
             }
-            transform.position = Vector3.Lerp(transform.position, new Vector3(posX, posY, -1), speed * Time.deltaTime);
+            transform.position = Vector3.Lerp(transform.position, new Vector3(posX, posY, -10), speed * Time.deltaTime);
         }
     }
 }
